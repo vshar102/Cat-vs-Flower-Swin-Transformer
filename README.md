@@ -43,8 +43,8 @@ Weight decay regularization.
 Ran multiple experiments to identify a configuration where the transformer converged reliably without instability.
 
 # Result
-Successfully trained a Swin Transformer on a small binary dataset
-Demonstrated that Vision Transformers can outperform traditional CNN approaches when combined with transfer learning
+Successfully trained a Swin Transformer on a small binary dataset.
+Demonstrated that Vision Transformers can outperform traditional CNN approaches when combined with transfer learning.
 
 Developed strong intuition around:
 Attention mechanisms in vision.
